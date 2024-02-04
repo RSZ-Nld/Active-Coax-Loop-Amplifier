@@ -7,4 +7,4 @@ Made a pcb for a Coax Loop Amplifier
 
 
 Gerbers are here:
-
+https://github.com/RSZ-Nld/Active-Coax-Loop-Amplifier/blob/main/Gerbers%20V1.2.zip
