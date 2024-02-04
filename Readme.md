@@ -13,7 +13,10 @@ Diagram
 
 ![Photo 6]( https://github.com/RSZ-Nld/Active-Coax-Loop-Amplifier/blob/main/Diagram-Loop-Amplifier.JPG)
 
-![Photo 7]( https://github.com/Vwbeetle2/TTGO/blob/main/6.jpg)
+
+Top Coax Pcb
+
+![Photo 7]( https://github.com/RSZ-Nld/Active-Coax-Loop-Amplifier/blob/main/Top-Switch-Loop-pcb.JPG)
 
 
 Gerbers are here:
