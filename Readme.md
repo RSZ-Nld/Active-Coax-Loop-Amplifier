@@ -26,3 +26,7 @@ Diagram Top Coax pcb
 Gerbers Amplifier are here:
 
 https://github.com/RSZ-Nld/Active-Coax-Loop-Amplifier/blob/main/Gerbers%20V1.2.zip
+
+Gerbers Coax Switch:
+
+https://github.com/RSZ-Nld/Active-Coax-Loop-Amplifier/blob/main/Gerber-switch.zip
