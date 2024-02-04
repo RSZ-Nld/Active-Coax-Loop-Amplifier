@@ -18,6 +18,10 @@ Top Coax Pcb
 
 ![Photo 7]( https://github.com/RSZ-Nld/Active-Coax-Loop-Amplifier/blob/main/Top-Switch-Loop-pcb.JPG)
 
+Diagram Top Coax pcb
+
+![Photo 8](https://github.com/RSZ-Nld/Active-Coax-Loop-Amplifier/blob/main/Top-Switch-Loop.JPG)
+
 
 Gerbers are here:
 https://github.com/RSZ-Nld/Active-Coax-Loop-Amplifier/blob/main/Gerbers%20V1.2.zip
