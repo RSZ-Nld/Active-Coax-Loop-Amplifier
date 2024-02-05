@@ -13,6 +13,10 @@ Diagram
 
 ![Photo 6]( https://github.com/RSZ-Nld/Active-Coax-Loop-Amplifier/blob/main/Diagram-Loop-Amplifier.JPG)
 
+Diagram with Stab 8V
+
+![Photo 16](https://github.com/RSZ-Nld/Active-Coax-Loop-Amplifier/blob/main/Diagram-Loop-Amplifier-Stab.JPG)
+
 
 Top Coax Pcb
 
